@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/feedgram/static/css/main.74e3276e.chunk.css",
-    "main.js": "/feedgram/static/js/main.962dbd66.chunk.js",
-    "main.js.map": "/feedgram/static/js/main.962dbd66.chunk.js.map",
+    "main.js": "/feedgram/static/js/main.54b298b0.chunk.js",
+    "main.js.map": "/feedgram/static/js/main.54b298b0.chunk.js.map",
     "runtime-main.js": "/feedgram/static/js/runtime-main.da3d5007.js",
     "runtime-main.js.map": "/feedgram/static/js/runtime-main.da3d5007.js.map",
     "static/js/2.f83872da.chunk.js": "/feedgram/static/js/2.f83872da.chunk.js",
     "static/js/2.f83872da.chunk.js.map": "/feedgram/static/js/2.f83872da.chunk.js.map",
     "index.html": "/feedgram/index.html",
-    "precache-manifest.3c5121d348438679f932774c81e64f6c.js": "/feedgram/precache-manifest.3c5121d348438679f932774c81e64f6c.js",
+    "precache-manifest.87593f2316c254e6fe0cbe5e25ba595b.js": "/feedgram/precache-manifest.87593f2316c254e6fe0cbe5e25ba595b.js",
     "service-worker.js": "/feedgram/service-worker.js",
     "static/css/main.74e3276e.chunk.css.map": "/feedgram/static/css/main.74e3276e.chunk.css.map",
     "static/js/2.f83872da.chunk.js.LICENSE": "/feedgram/static/js/2.f83872da.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.da3d5007.js",
     "static/js/2.f83872da.chunk.js",
     "static/css/main.74e3276e.chunk.css",
-    "static/js/main.962dbd66.chunk.js"
+    "static/js/main.54b298b0.chunk.js"
   ]
 }

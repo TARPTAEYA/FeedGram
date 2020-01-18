@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a96888ddcee4be4bc78f4b9b77d2255",
+    "revision": "c1978f57fa29b41e17571278d347e305",
     "url": "/feedgram/index.html"
   },
   {
-    "revision": "c612856b242e762e1296",
+    "revision": "2b0e6847ec8230605433",
     "url": "/feedgram/static/css/main.74e3276e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/feedgram/static/js/2.f83872da.chunk.js.LICENSE"
   },
   {
-    "revision": "c612856b242e762e1296",
-    "url": "/feedgram/static/js/main.3d7f6594.chunk.js"
+    "revision": "2b0e6847ec8230605433",
+    "url": "/feedgram/static/js/main.962dbd66.chunk.js"
   },
   {
     "revision": "159a607f51db9ae8aecd",
